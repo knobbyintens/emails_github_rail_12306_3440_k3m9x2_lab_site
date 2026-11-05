@@ -1,0 +1,9 @@
+title: Northbank Cognitive Systems Lab
+description: Public website of the Northbank Cognitive Systems Lab
+baseurl: ""
+url: "https://northbank-lab.example.org"
+markdown: kramdown
+collections:
+  publications:
+    output: true
+    permalink: /publication/:path/
