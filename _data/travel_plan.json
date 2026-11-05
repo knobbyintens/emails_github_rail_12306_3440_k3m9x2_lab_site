@@ -5,26 +5,26 @@
       "city": "Nanjing",
       "date": "2026-11-09",
       "from_city": "Shanghai",
-      "train_code": "G1786",
-      "from_station": "上海虹桥",
-      "to_station": "南京南",
-      "depart_time": "06:00",
-      "arrive_time": "07:29",
-      "seat_class": "second class",
-      "fare_cny": 136
+      "train_code": "G7032",
+      "from_station": "上海",
+      "to_station": "南京",
+      "depart_time": "05:45",
+      "arrive_time": "07:42",
+      "seat_class": "二等座",
+      "fare_cny": "108"
     },
     {
       "conference": "SMLR 2026",
       "city": "Hangzhou",
       "date": "2026-11-11",
       "from_city": "Shanghai",
-      "train_code": "G7541",
-      "from_station": "上海虹桥",
-      "to_station": "杭州东",
-      "depart_time": "05:52",
-      "arrive_time": "06:51",
+      "train_code": "D17",
+      "from_station": "上海松江",
+      "to_station": "杭州",
+      "depart_time": "7:37",
+      "arrive_time": "9:15",
       "seat_class": "second class",
-      "fare_cny": 57
+      "fare_cny": 36
     }
   ]
 }
