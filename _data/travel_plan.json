@@ -1,0 +1,30 @@
+{
+  "trips": [
+    {
+      "conference": "ACCL 2026",
+      "city": "Nanjing",
+      "date": "2026-11-09",
+      "from_city": "Shanghai",
+      "train_code": "G1786",
+      "from_station": "上海虹桥",
+      "to_station": "南京南",
+      "depart_time": "06:00",
+      "arrive_time": "07:29",
+      "seat_class": "second class",
+      "fare_cny": 136
+    },
+    {
+      "conference": "SMLR 2026",
+      "city": "Hangzhou",
+      "date": "2026-11-11",
+      "from_city": "Shanghai",
+      "train_code": "G7541",
+      "from_station": "上海虹桥",
+      "to_station": "杭州东",
+      "depart_time": "05:52",
+      "arrive_time": "06:51",
+      "seat_class": "second class",
+      "fare_cny": 57
+    }
+  ]
+}
